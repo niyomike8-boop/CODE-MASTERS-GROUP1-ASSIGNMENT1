@@ -1,6 +1,6 @@
 Based on the C++ code shown in the images (group_asssignment1.cpp), here is the breakdown of the assignment documentation.
 
-1. Task Requirements
+1. Task Requirements by code masters group 1 members
 The program computes statistics for a collection of floating-point numbers (double) using functions in C++. Specifically, it requires:
 Sum: Calculate the total of all elements in the dataset.
 Mean: Calculate the arithmetic average.
